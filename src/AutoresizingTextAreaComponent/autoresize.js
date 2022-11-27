@@ -17,5 +17,6 @@ export default function autoresize(node) {
   }
   node.addEventListener('input', resize)
   window.addEventListener('resize', resize)
+  node.triggerResize = resize;
   resize()
 }

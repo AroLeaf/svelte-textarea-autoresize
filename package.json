@@ -1,5 +1,5 @@
 {
-  "name": "svelte-textarea-autoresize",
+  "name": "@aroleaf/svelte-textarea-autoresize",
   "version": "1.0.0",
   "description": "An autoresizing textarea for svelte",
   "svelte": "src/index.js",
